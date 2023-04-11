@@ -1,6 +1,7 @@
 {
     "name": "glopal/glopal",
-    "description": "This package only uses global namespace",
+    "license": "MIT",
+    "description": "This package only uses 'glopal' namespace",
     "require": {
       "php": ">=7.4"
     }
